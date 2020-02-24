@@ -1,0 +1,17 @@
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\LINEAL.exe.config
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\LINEAL.exe
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\LINEAL.pdb
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\Emgu.CV.DebuggerVisualizers.VS2019.dll
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\Emgu.CV.World.dll
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\ZedGraph.dll
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\Emgu.CV.UI.dll
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\Emgu.CV.World.xml
+C:\Users\rotje\Desktop\LINEAL\bin\Debug\Emgu.CV.UI.xml
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.csprojAssemblyReference.cache
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.Form1.resources
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.Properties.Resources.resources
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.csproj.GenerateResource.cache
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.csproj.CopyComplete
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.exe
+C:\Users\rotje\Desktop\LINEAL\obj\Debug\LINEAL.pdb
